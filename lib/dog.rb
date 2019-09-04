@@ -15,4 +15,3 @@ fido.name = "Fido"
 bark
 
 puts fido.name bark
-
